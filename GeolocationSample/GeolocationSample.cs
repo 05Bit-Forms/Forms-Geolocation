@@ -1,6 +1,6 @@
 ﻿using System;
 using Xamarin.Forms;
-//using ZeroFiveBit.Geolocation;
+using ZeroFiveBit.Geolocation;
 
 namespace GeolocationSample
 {

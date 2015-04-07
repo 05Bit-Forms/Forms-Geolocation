@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeolocationSample.Droid", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroFiveBit.Geolocation.iOS", "ZeroFiveBit.Geolocation.iOS\ZeroFiveBit.Geolocation.iOS.csproj", "{F29A4F43-2521-47C6-9FD5-6807FF38973A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroFiveBit.Geolocation.Droid", "ZeroFiveBit.Geolocation.Droid\ZeroFiveBit.Geolocation.Droid.csproj", "{452030EB-65D1-43BA-AA6F-2513E3B13211}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,22 @@ Global
 		{33B8A17D-3339-42E7-B2F0-4A2B0563DAA6}.Release|iPhone.Build.0 = Release|Any CPU
 		{33B8A17D-3339-42E7-B2F0-4A2B0563DAA6}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{33B8A17D-3339-42E7-B2F0-4A2B0563DAA6}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Release|iPhone.Build.0 = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{452030EB-65D1-43BA-AA6F-2513E3B13211}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{5E78DAC0-C834-4A99-B004-61D15CBA8565}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
 		{5E78DAC0-C834-4A99-B004-61D15CBA8565}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
 		{5E78DAC0-C834-4A99-B004-61D15CBA8565}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
